@@ -33,8 +33,8 @@ This project is intended for research purposes only and should be used responsib
 This project is based on the DeepSpeech ASR system by Mozilla - https://github.com/mozilla/DeepSpeech.
 
 ## Team Members
-* Melita Lewis
-* Sushree Nadiminty
-* Angeica Sebastian
 * Shaun Noronha
+* Sushree Nadiminty
+* Angelica Sebastian
+* Melita Lewis
 
